@@ -1,4 +1,4 @@
--👋 Hi, I’m @vit-krizka.
+- 👋 Hi, I’m @vit-krizka.
 - 👀 I’m interested in law, economics, piano, programming and coding.-
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 
