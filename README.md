@@ -5,5 +5,4 @@
 - I’m interested in law, economics, math and programming.  
 - My hobbies are board games, RPG, PC games and piano.
 - I listen to <a href="https://open.spotify.com/user/11170331309" title="Music preference">rock, pop, indies and folk</a>.  
-- I’m currently learning JavaScript and Vue.js.  
-- I am currently looking for a job as a <a href="https://www.linkedin.com/in/v%C3%ADt-k%C5%99%C3%AD%C5%BEka-82382747/" title="LinkedIn profile">junior front-end programmer or lecturer of IT or graphics courses.</a>.  
+- I’m currently learning React and Node.js.  
